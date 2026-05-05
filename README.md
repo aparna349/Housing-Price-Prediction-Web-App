@@ -65,7 +65,7 @@ python -m streamlit run app.py
 ## Screenshots
 
 ### Web App Interface
-![App Screenshot](Screenshot 2026-05-05 193836.png)
+![App Screenshot](app.png)
 
 ### Price Distribution
 ![Price Distribution](price.png)
